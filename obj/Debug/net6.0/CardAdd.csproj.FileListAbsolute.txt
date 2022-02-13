@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\CardAdd\bin\Debug\net6.0\CardAdd.exe
+D:\cat32tw\Desktop\CardAdd\bin\Debug\net6.0\CardAdd.deps.json
+D:\cat32tw\Desktop\CardAdd\bin\Debug\net6.0\CardAdd.runtimeconfig.json
+D:\cat32tw\Desktop\CardAdd\bin\Debug\net6.0\CardAdd.dll
+D:\cat32tw\Desktop\CardAdd\bin\Debug\net6.0\ref\CardAdd.dll
+D:\cat32tw\Desktop\CardAdd\bin\Debug\net6.0\CardAdd.pdb
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\CardAdd.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\CardAdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\CardAdd.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\CardAdd.AssemblyInfo.cs
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\CardAdd.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\CardAdd.dll
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\ref\CardAdd.dll
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\CardAdd.pdb
+D:\cat32tw\Desktop\CardAdd\obj\Debug\net6.0\CardAdd.genruntimeconfig.cache
